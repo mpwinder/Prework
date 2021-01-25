@@ -17,7 +17,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stores:
 
-<img src='https://imgur.com/a/VOjTenY' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/VOjTenY.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Imgur](http://www.imgur.com/).
 
