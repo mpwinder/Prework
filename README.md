@@ -17,10 +17,9 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stores:
 
-<img src='http://imgur.com/a/VOjTenY.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://i.imgur.com/9hTObCl.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/XmMVGBc.gif)
 
-GIF created with [Imgur](http://www.imgur.com/).
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
