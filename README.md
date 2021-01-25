@@ -23,7 +23,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was pretty difficult learning how to use Swift. The UI elements were unfamiliar to me. I did the whole process twice and that makes me a little bit more prepared than I was for the rest of the course.
 
 ## License
 
